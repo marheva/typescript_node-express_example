@@ -12,3 +12,10 @@
   * nodemon => watcher;
   * @types/node;
   * @types/express;
+
+---------------------------------------
+* routes;
+* controlers;
+* models;
+* CRUD;
+* Postman practice;
